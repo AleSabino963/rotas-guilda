@@ -1,2 +1,4 @@
 # rotas-guilda
-Bora galera
+Guilda AGGTY!
+INTEGRANTES:
+Alexandre Sabino, Product Owner;
