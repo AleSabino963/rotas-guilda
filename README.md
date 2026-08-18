@@ -1,7 +1,5 @@
 # rotas-guilda-AGGTY
 Guilda AGGTY!
 
-INTEGRANTES:
-
+INTEGRANTES:  
 Alexandre Sabino, Product Owner;
-
