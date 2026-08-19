@@ -2,4 +2,5 @@
 Guilda AGGTY!
 
 INTEGRANTES:  
-Alexandre Sabino, Product Owner;
+Alexandre Sabino, Product Owner;  
+Maria da Gloria Baracat, Qualidade;
