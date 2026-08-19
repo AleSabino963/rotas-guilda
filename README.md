@@ -1,11 +1,8 @@
 # 🛡️ Guilda AGGTY
 
-<p align="center">
-  <img src="https://shields.io" alt="Status">
-</p>
 
 ## 📝 Sobre o Projeto
-[Insira aqui uma breve descrição de uma ou duas linhas sobre o que é o projeto da Guilda AGGTY, qual problema ele resolve ou qual o seu principal objetivo].
+Projeto acadêmico de iniciação em ADS.
 
 ---
 
@@ -23,32 +20,20 @@ Conheça a equipe responsável pelo desenvolvimento do projeto:
 
 | Foto | Nome | Papel / Função | GitHub / LinkedIn |
 | :---: | :--- | :--- | :---: |
-| 👑 | **Alexandre Sabino** | Product Owner | [🔗]() |
-| 🧪 | **Maria da Gloria Baracat** | Qualidade (QA) | [🔗]() |
+| 👑 | **Alexandre Sabino** | Product Owner | [🔗](https://www.linkedin.com/in/raydam963/) |
+| 🧪 | **Maria da Gloria Baracat** | Qualidade (QA) | [🔗](https://www.linkedin.com/in/maria-da-gloria-baracat/) |
 | ⚙️ | **Thiago Luis Sabino Leão** | Integrador | [🔗]() |
 | 🧪 | **Yasmim Gabrielle** | Qualidade (QA) | [🔗]() |
-| ✍️ | **Gregorio Rossi** | Escriba | [🔗]() |
+| ✍️ | **Gregorio Rossi** | Dev | [🔗](https://www.linkedin.com/in/gregoriorossi/) |
 
 ---
 
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-* [Git](https://git-scm.com)
-* [Inserir outra dependência se houver, ex: Node.js, Python, etc.]
+Em desenvolvimento
 
 ### 🔧 Instalação e Execução
-```bash
-# Clone este repositório
-\$ git clone <URL_DO_SEU_REPOSITORIO>
+Em desenvolvimento
 
-# Acesse a pasta do projeto no terminal
-\$ cd <NOME_DA_PASTA>
-
-# Instale as dependências (se aplicável)
-# [Comando de instalação aqui]
-
-# Execute a aplicação
-# [Comando de execução aqui]
-```
+# [Obrigado](https://i.ytimg.com/vi/pj68MlDW-IQ/hq720_2.jpg?sqp=-oaymwEYCI4CEOADSFryq4qpAwoIARUAAIhC0AEB&rs=AOn4CLBa1KwnxE2TW0yGVbtsKW4lGCgs7g)
