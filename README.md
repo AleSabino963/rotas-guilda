@@ -7,9 +7,7 @@ Projeto acadêmico de iniciação em ADS.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-*[Adicione aqui as tecnologias utilizadas no repositório, por exemplo:]*
 * **Linguagens:** Python / JavaScript / Java
-* **Frameworks:** React / Django
 * **Ferramentas:** Git / GitHub
 
 ---
