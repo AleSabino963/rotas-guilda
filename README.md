@@ -5,4 +5,4 @@ INTEGRANTES:
 Alexandre Sabino, Product Owner;  
 Maria da Gloria Baracat, Qualidade;  
 Thiago Luis Sabino Leão, Integrador;  
-Yasmim Gabrielle Chagas da Silva, Qualidade;
+Yasmim Gabrielle, Qualidade;
